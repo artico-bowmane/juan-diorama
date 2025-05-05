@@ -898,8 +898,8 @@
     "m_ObjectId": "0ba077627b504797bcdd34754730e45e",
     "m_Title": "Base Color",
     "m_Position": {
-        "x": -534.0,
-        "y": -310.0000915527344
+        "x": -534.0001220703125,
+        "y": -310.0000305175781
     }
 }
 
@@ -1053,8 +1053,8 @@
     "m_ObjectId": "1c0b6e9797334260aa858ce5735330c9",
     "m_Title": "Cel Shading Cutoff",
     "m_Position": {
-        "x": -1680.0,
-        "y": 403.3333740234375
+        "x": -1680.0001220703125,
+        "y": 403.3333435058594
     }
 }
 
@@ -1813,7 +1813,7 @@
     "m_ZTestMode": 4,
     "m_ZWriteControl": 0,
     "m_AlphaMode": 0,
-    "m_RenderFace": 2,
+    "m_RenderFace": 0,
     "m_AlphaClip": false,
     "m_CastShadows": true,
     "m_ReceiveShadows": true,
@@ -3715,7 +3715,7 @@
     "m_ObjectId": "cabd7de17c7f49f8923400b4cf9a9c64",
     "m_Title": "Diffuse n dot l",
     "m_Position": {
-        "x": -2392.0,
+        "x": -2392.000244140625,
         "y": 547.9999389648438
     }
 }

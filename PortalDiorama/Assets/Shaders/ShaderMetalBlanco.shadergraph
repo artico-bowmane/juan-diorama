@@ -907,7 +907,7 @@
     "m_ObjectId": "0ba077627b504797bcdd34754730e45e",
     "m_Title": "Base Color",
     "m_Position": {
-        "x": -1062.0,
+        "x": -1062.0001220703125,
         "y": -456.0
     }
 }
@@ -1063,7 +1063,7 @@
     "m_Title": "Cel Shading Cutoff",
     "m_Position": {
         "x": -2208.0,
-        "y": 257.0
+        "y": 256.9999694824219
     }
 }
 
@@ -3767,8 +3767,8 @@
     "m_ObjectId": "cabd7de17c7f49f8923400b4cf9a9c64",
     "m_Title": "Diffuse n dot l",
     "m_Position": {
-        "x": -2920.0,
-        "y": 402.0
+        "x": -2920.000244140625,
+        "y": 401.9998779296875
     }
 }
 

@@ -18,7 +18,7 @@ public class Portal : MonoBehaviour
 
     void UpdateCamera(ScriptableRenderContext context, Camera camera)
     {
-        if((camera.cameraType == CameraType.Game || camera.cameraType == CameraType.SceneView) && camera.tag != "PortalCamera")
+        if (camera.cameraType == CameraType.Game && camera.tag != "PortalCamera")
         {
             portalCamera.projectionMatrix = camera.projectionMatrix;
 

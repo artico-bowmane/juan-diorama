@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: TimerPuerta
+  m_Name: Puerta
   m_Shader: {fileID: -6465566751694194690, guid: b979529e5150fa044a7a193dd2d221c5,
     type: 3}
   m_Parent: {fileID: 0}
@@ -42,7 +42,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Base_Texture:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 8c1525c0f89a3c24b91f105816999dfa, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -101,7 +101,7 @@ Material:
     m_Floats:
     - _AlphaClip: 0
     - _AlphaToMask: 0
-    - _Ambient_Light_Strength: 0.5
+    - _Ambient_Light_Strength: 0.35
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1

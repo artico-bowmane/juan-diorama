@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PisoJaula
-  m_Shader: {fileID: -6465566751694194690, guid: 1e865872df86b17458fea64dd6ef757a,
+  m_Name: TuberiasTecho
+  m_Shader: {fileID: -6465566751694194690, guid: d1d523d595a1fce438c731ec41100504,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -29,7 +29,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Base_Texture:
-        m_Texture: {fileID: 2800000, guid: 099aacd2402f3944882c9b321d582f02, type: 3}
+        m_Texture: {fileID: 2800000, guid: 610f3e52c0dee7f458c545238d626bbb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -126,9 +126,9 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _Tiling: {r: 0, g: 0, b: 0, a: 0}
+    - _Tiling: {r: 3, g: 3, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &7721799770751643330
+--- !u!114 &5062608942168080540
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

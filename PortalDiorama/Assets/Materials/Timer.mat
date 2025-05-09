@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Timer
-  m_Shader: {fileID: -6465566751694194690, guid: b979529e5150fa044a7a193dd2d221c5,
+  m_Shader: {fileID: -6465566751694194690, guid: 83e61431bd96c4947a217e16d58ca30d,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -81,6 +81,14 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_32def96e9094430e9e6f85831248672b_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 4964b630cdedeaa4cb483bd0544977f6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_5623fea81e8c42599a1c410c54893f1d_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 8c4b5fe66118dd44ab5fb7f7798d26e2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -113,6 +121,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _DstBlendAlpha: 0
+    - _Emission: 25
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
     - _Glossiness: 0

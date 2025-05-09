@@ -29,7 +29,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Base_Texture:
-        m_Texture: {fileID: 2800000, guid: 099aacd2402f3944882c9b321d582f02, type: 3}
+        m_Texture: {fileID: 2800000, guid: 997760faf407ee1449643da5e3a4c04e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -126,7 +126,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _Tiling: {r: 0, g: 0, b: 0, a: 0}
+    - _Tiling: {r: 0.91, g: 2.05, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &7721799770751643330
 MonoBehaviour:
